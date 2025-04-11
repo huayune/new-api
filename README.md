@@ -4,6 +4,9 @@
 <div align="center">
 
 ![new-api](/web/public/logo.png)
+## 📝 项目说明
+新增请求内容和结果返回记录
+
 
 # New API
 
